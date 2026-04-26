@@ -1,6 +1,0 @@
-SkillBridgeCode/node_modules/
-SkillBridgeCode/dist/
-SkillBridgeCode/*.lock
-SkillBridgeCode/*.log
-SkillBridgeCode/.env*
-SkillBridgeCode/.DS_Store
