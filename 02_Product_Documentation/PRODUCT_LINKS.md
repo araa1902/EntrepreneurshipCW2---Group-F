@@ -8,7 +8,7 @@ This document provides direct access to the functional outputs, video demonstrat
 
 ### Landing Page
 **URL:** [https://skill-bridge-landing-vert.vercel.app/](https://skill-bridge-landing-vert.vercel.app/)
-* **Description:** The primary entry point for the SkillBridge platform, outlining the value proposition for Students, SMEs, and University partners.
+* **Description:** The primary entry point for the SkillBridge platform, outlining the value proposition for Students, SMEs, and University partners. This included a waitlist to measure the level of interest for this product.
 
 ### Functional MVP
 **URL:** [https://skillbridge-rose.vercel.app/auth](https://skillbridge-rose.vercel.app/auth)
