@@ -18,4 +18,4 @@ Welcome to the project repository for Group F. This codebase has been organised 
   - Contains the Legal, Ethical, and Sustainability considerations document.
   - Contains the Generative AI usage statement.
 
-- **[04_Legal_and_Ethical/](./05_Marketing/)**
+- **[05_Marketing/](./05_Marketing/)**
