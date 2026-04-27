@@ -76,4 +76,7 @@ Students already familiar with the SkillBridge project who could test the app an
 ## Notes
 - All three surveys were hosted on Microsoft Forms.
 - All responses were anonymous; participants confirmed they were 18 or older and consented to participate before completing the survey.
-- Survey links and result overviews are available in `results_overview.txt`.
+- Survey result overviews:
+  - [SkillBridge Student Survey Results](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=vAxZharnPYAFbVc5BOhUPttmrybFkWzS&id=Ij1-N6FOLUKwrY_MiUBrnseZSOBlXBRCnY-pLd3YCAtUNDg0WlJYMFBPRzJBV0g0QVpDRk9FOEMxOC4u)
+  - [SkillBridge SME Survey Results](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=eCG0Oo9tVTy9gNNrkCl2bOkqszWJ8QUc&id=Ij1-N6FOLUKwrY_MiUBrnseZSOBlXBRCnY-pLd3YCAtUMFc5Rk9GRURaSUFUUkNDNDVCUlZFUDhVUC4u)
+  - [SkillBridge User Testing Results](https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=eAXRRnovUfSnUUKuvdfDz5JsNdnuXHyV&id=Ij1-N6FOLUKwrY_MiUBrnseZSOBlXBRCnY-pLd3YCAtUNk0wNURFRDZRNzA2TTFWV1VWM01EOURUUy4u)
