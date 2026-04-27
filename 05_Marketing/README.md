@@ -31,5 +31,6 @@ We utilised targeted community forums to validate the "Experience Gap" hypothesi
 ### Reddit Engagement Metrics
 Our outreach campaigns focused on student-centric subreddits, resulting in **1,000+ organic views** and discussion threads.
 
-* **r/University Campaign:** [View Discussion Thread](https://www.reddit.com/r/University/comments/1rydx6f/built_a_platform_to_connect_students_with_small/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-* **r/UniUK Campaign:** [View Discussion Thread](https://www.reddit.com/r/UniUK/comments/1rydqt2/built_a_platform_to_connect_students_with_small/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* **r/University Post:** [View Discussion Thread](https://www.reddit.com/r/University/comments/1rydx6f/built_a_platform_to_connect_students_with_small/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* **r/UniUK Post:** [View Discussion Thread](https://www.reddit.com/r/UniUK/comments/1rydqt2/built_a_platform_to_connect_students_with_small/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+* **r/Students Post:** [View Discussion Thread]([https://www.reddit.com/r/UniUK/comments/1rydqt2/built_a_platform_to_connect_students_with_small/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/Students/comments/1s46slk/built_a_platform_to_connect_students_with_small/))
