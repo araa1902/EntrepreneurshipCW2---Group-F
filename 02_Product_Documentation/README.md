@@ -1,1 +1,0 @@
-# EntrepreneurshipCW2---Group-F
