@@ -7,7 +7,7 @@ In accordance with academic and professional transparency standards, we declare 
 ## 1. Prototype Scaffolding & UI Generation
 **Tool Used:** Lovable (lovable.dev)
 
-* **Purpose:** We utilised Lovable to accelerate the initial frontend development and build the skeleton prototype of our platform.
+* **Purpose:** We utilised [Lovable](https://lovable.dev/) to accelerate the initial frontend development and build the skeleton prototype of our platform.
 * **Extent of Use:** The AI was used to generate boilerplate React components, basic layout structures, and standard UI patterns (such as navigation bars and form scaffolding).
 * **Human Contribution:** Once the skeleton was generated, our team took full ownership of the codebase. We heavily customised the components, integrated the backend (Supabase), implemented the complex state management, wrote the custom matching logic, and refined the UI/UX to match our specific branding and business requirements.
 
