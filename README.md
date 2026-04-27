@@ -1,21 +1,20 @@
-# SkillBridge Project Submission - Group F
+# SkillBridge | Group F Project Submission
 
-Welcome to the project repository for Group F. This codebase has been organised into logical sections to assist with marking and evaluation.
+**Bridging the gap between academic learning and professional experience.**
 
-## Repository Structure
+SkillBridge is a multi-sided marketplace designed to connect university students with real-world industry projects. The platform enables SMEs to source verified talent affordably while providing students with a pathway to build micro-credentials and professional portfolios.
 
-- **[01_Application_Code/](./01_Application_Code/)**
-  - Contains the complete source code for the SkillBridge platform (React + Vite + Supabase).
-  - Refer to the internal `README.md` within this folder for installation and running instructions.
+---
 
-- **[02_Product_Documentation/](./02_Product_Documentation/)**
-  - Contains the primary product documentation, including product links, mockups, website links, and product walkthroughs.
+## Repository Map
 
-- **[03_Research_Testing_and_Iteration/](./03_Research_Testing_and_Iteration/)**
-  - Contains user survey data (Excel files) and the testing iteration logs.
+| Directory | Description |
+| :--- | :--- |
+| **[01_Application_Code](./01_Application_Code/)** | Complete source for the SkillBridge platform (React, Vite, Supabase). |
+| **[02_Product_Documentation](./02_Product_Documentation/)** | Product links, high-fidelity mockups, and video walkthroughs. |
+| **[03_Research_Testing_and_Iteration](./03_Research_Testing_and_Iteration/)** | User survey data, testing logs, and development iterations. |
+| **[04_Legal_and_Ethical](./04_Legal_and_Ethical/)** | Legal, Ethical, and Sustainability considerations. |
+| **[05_Marketing](./05_Marketing/)** | Promotional assets and marketing strategy. |
+---
 
-- **[04_Legal_and_Ethical/](./04_Legal_and_Ethical/)**
-  - Contains the Legal, Ethical, and Sustainability considerations document.
-  - Contains the Generative AI usage statement.
 
-- **[05_Marketing/](./05_Marketing/)**
