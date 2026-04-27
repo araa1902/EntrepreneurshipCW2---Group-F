@@ -15,6 +15,7 @@ SkillBridge is a multi-sided marketplace designed to connect university students
 | **[03_Research_Testing_and_Iteration](./03_Research_Testing_and_Iteration/)** | User survey data, testing logs, and development iterations. |
 | **[04_Legal_and_Ethical](./04_Legal_and_Ethical/)** | Legal, Ethical, and Sustainability considerations. |
 | **[05_Marketing](./05_Marketing/)** | Promotional assets and marketing strategy. |
+| **[06_Presentation](./05_Presentation/)** | SkillBridge Presentation |
 ---
 
 
