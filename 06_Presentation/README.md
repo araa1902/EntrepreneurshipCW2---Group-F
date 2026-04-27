@@ -1,1 +1,1 @@
-Due to compressing the presentation due to too high sized pdf, the testing, iteration, and prototyping diagram is blurry - we have attached the image separately to be viewed
+Because the PDF was compressed to reduce file size, the 'Testing, Iteration, and Prototyping' diagram may appear blurry. We have attached a high-resolution version of the image separately for better viewing.
